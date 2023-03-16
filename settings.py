@@ -19,8 +19,8 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 
 
 # TOKEN SETTINGS
-openai.api_key = "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"
-bot = Bot(token='5621569001:AAGfx4Gya_BfMZsiT3-gXdKWJ4SO8ulE1bo')
+openai.api_key = "YOUR TOKEN"
+bot = Bot(token='YOUR TOKEN')
 
 # DISPATCHER
 dispatcher = Dispatcher(bot)
