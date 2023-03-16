@@ -1,0 +1,6 @@
+aiogram
+json
+os
+openai==0.27.2
+database
+sqlalchemy==2.0.6
